@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4. Median of Two Sorted Arrays", "4. Median of Two Sorted Arrays\4. Median of Two Sorted Arrays.vcxproj", "{0E4F482E-F9FC-4001-AB70-7E91B825258F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E4F482E-F9FC-4001-AB70-7E91B825258F}.Debug|x64.ActiveCfg = Debug|x64
+		{0E4F482E-F9FC-4001-AB70-7E91B825258F}.Debug|x64.Build.0 = Debug|x64
+		{0E4F482E-F9FC-4001-AB70-7E91B825258F}.Debug|x86.ActiveCfg = Debug|Win32
+		{0E4F482E-F9FC-4001-AB70-7E91B825258F}.Debug|x86.Build.0 = Debug|Win32
+		{0E4F482E-F9FC-4001-AB70-7E91B825258F}.Release|x64.ActiveCfg = Release|x64
+		{0E4F482E-F9FC-4001-AB70-7E91B825258F}.Release|x64.Build.0 = Release|x64
+		{0E4F482E-F9FC-4001-AB70-7E91B825258F}.Release|x86.ActiveCfg = Release|Win32
+		{0E4F482E-F9FC-4001-AB70-7E91B825258F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F05A9EFA-6459-4AC7-9CBC-B01B55E4A0F8}
+	EndGlobalSection
+EndGlobal
